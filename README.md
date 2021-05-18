@@ -1,7 +1,8 @@
 <h2 align="left"> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h2>
 
-<h3 align="left">About Me</h3> 
-- I'm a recent MS CS graduate from the University of Southern California (whoo Class of 2021)! 
+<h3 align="left"> 👩🏻‍💻 About Me </h3> 
+- 🎓 &nbsp; Newly graduated MS CS student from USC
+- 🎓 &nbsp; Studied CS and minored in Bioinformatics during undergrad at UC Santa Cruz
 
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 <p align="left">
