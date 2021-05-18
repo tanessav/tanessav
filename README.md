@@ -1,10 +1,11 @@
 <h2 align="left"> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h2>
 
 <h3 align="left"> 👩🏻‍💻 About Me </h3> 
-- 🎓 &nbsp; Newly graduated MS CS student from USC
-- 🎓 &nbsp; Studied CS and minored in Bioinformatics during undergrad at UC Santa Cruz
+<li> 🎓 Newly graduated MS CS student from USC</li>
+<li> 🎓 Undergrad at UC Santa Cruz with BS CS and minor in Bioinformatics</li>
 
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
+Feel free to reach out if you have any questions! <br> <br>
 <p align="left">
     <a href="https://github.com/tanessav"><img alt="Github" src="https://img.shields.io/badge/Github-lightgrey?style=flat-square&logo=github"></a>
     <a href="https://www.linkedin.com/in/vanessastan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
