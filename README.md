@@ -1,5 +1,13 @@
-### Hi there 👋
+<h2 align="left"> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h2>
 
+<h3 align="left">About Me</h3> 
+- I'm a recent MS CS graduate from the University of Southern California (whoo Class of 2021)! 
+
+<h3 align="left"> 🤝🏻 Connect with Me </h3>
+<p align="left">
+    <a href="https://github.com/tanessav"><img alt="Github" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=github"></a>
+    <a href="https://www.linkedin.com/in/vanessastan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+</p>
 <!--
 **tanessav/tanessav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
