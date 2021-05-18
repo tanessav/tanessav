@@ -5,7 +5,7 @@
 
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 <p align="left">
-    <a href="https://github.com/tanessav"><img alt="Github" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=github"></a>
+    <a href="https://github.com/tanessav"><img alt="Github" src="https://img.shields.io/badge/Github-lightgrey?style=flat-square&logo=github"></a>
     <a href="https://www.linkedin.com/in/vanessastan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>
 <!--
